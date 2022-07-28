@@ -1,3 +1,7 @@
 .dark {
     filter: brightness(60%);
 }
+
+.button {
+    background-color: white;
+}
